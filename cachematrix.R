@@ -1,6 +1,6 @@
 # Chris Schroeder
 # R Programming, Coursera
-# Programming Assignment 2
+# Programming Assignment 2 
 # December 18, 2016
 
 ## Creates a special "matrix", which is really a list containing a function to
